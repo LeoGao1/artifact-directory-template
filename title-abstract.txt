@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Persona Analysis
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In this project, our goal is to find the relationship between the Persona and their PC system. We are trying to compare the performances of different models and use the features in the system to predict the type of a user. To achieve this, we collect data from the user end, clean the data, explore the data using hypothesis tests and fit our data into some classification machine learning  models, and also test the performance and optimizing parameters of our models.
